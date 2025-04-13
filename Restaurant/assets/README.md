@@ -1,7 +1,7 @@
-# Nombre del restaurante 
+# Pastelería Delicia
 
 ## Descripción del Proyecto
-Nombre del restaurante es un sitio web dedicado a la gastronomia y platos mediterráneos. El sitio permite a los usuarios explorar una variedad de entradas, platos principales, postres, tragos típicos y de autor, puede ver los detalles específicos de cada uno al ver nuestra carta y realizar reservas en línea. La plataforma está diseñada para ser intuitiva y fácil de usar, ofreciendo una experiencia agradable para los amantes de la comida mar y tierra.
+Pastelería Delicia es un sitio web dedicado a la venta de pasteles y postres exquisitos. El sitio permite a los usuarios explorar una variedad de productos, ver detalles específicos de cada uno y realizar reservas en línea. La plataforma está diseñada para ser intuitiva y fácil de usar, ofreciendo una experiencia agradable para los amantes de la repostería.
 
 ## Estructura del Proyecto
 El proyecto está organizado de la siguiente manera:
